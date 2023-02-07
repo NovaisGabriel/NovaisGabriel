@@ -6,7 +6,7 @@
      In the Machine Learning area, I have been working with Ensembles Models, 
      specially with Gradient Boosting Decision Trees such as XGBoost, CatBoost and LightGBM. </p>
      
-  <div style="background-color: black; color: white">
+  <div style="background-color: black;">
     <a href="https://github.com/NovaisGabriel">
         <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaisGabriel&layout=compact&langs_count=10&theme=light"/>
         <img height="200em" src="https://github-readme-stats.vercel.app/api?username=NovaisGabriel&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
