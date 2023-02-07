@@ -42,6 +42,9 @@ MSc Mathematical Modelling graduated from Fundação Getulio Vargas RJ ([EMAp FG
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
+<br />
+
 ### Statistics:
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaisGabriel&layout=compact&langs_count=10&theme=light&bg_color=00000000&hide_border=true"/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=NovaisGabriel&show_icons=true&theme=light&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true"/>
