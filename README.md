@@ -5,4 +5,11 @@
      I have experience with Machine Learning and I am a Deep Learning enthusiast, who seeks building applications with this knowledge. 
      In the Machine Learning area, I have been working with Ensembles Models, 
      specially with Gradient Boosting Decision Trees such as XGBoost, CatBoost and LightGBM. </p>
+     
+  <div>
+    <a href="https://github.com/Franklin-oliveira">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franklin-oliveira&layout=compact&langs_count=10&theme=light"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Franklin-oliveira&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+    </a>
+</div>
 
