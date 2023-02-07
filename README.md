@@ -1,6 +1,6 @@
 <h1>Gabriel Novais</h1>
 
-## Hi there, I'm Franklin 👋 
+## Hi there, I'm Gabriel 👋 
 
 MSc Mathematical Modelling graduated from Fundação Getulio Vargas RJ ([EMAp FGV-RJ](https://emap.fgv.br/posgraduacao/mestrado-em-modelagem-matematica)) in 2021. 
 
