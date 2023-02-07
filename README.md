@@ -13,7 +13,7 @@
     <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
     <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
     <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <img align="left" alt="Python" width="26px" src="https://img2.gratispng.com/20180715/btc/kisspng-computer-icons-python-anaconda-python-logo-download-5b4b1d43a96936.3255621715316493476939.jpg" />
+    <img align="left" alt="Python" width="26px" src="https://www.pngfind.com/pngs/m/62-626208_python-logo-png-transparent-background-python-logo-png.png" />
     <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
     <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
     <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -23,9 +23,10 @@
 </div>
 <br>
 <div>
-    <a href="https://github.com/NovaisGabriel">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaisGabriel&layout=compact&langs_count=10&theme=light&bg_color=00000000&hide_border=true"/>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=NovaisGabriel&show_icons=true&theme=light&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true"/>
-    </a>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaisGabriel&layout=compact&langs_count=10&theme=light&bg_color=00000000&hide_border=true"/>
+</div>
+<br>
+<div>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=NovaisGabriel&show_icons=true&theme=light&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true"/>
 </div>
 
